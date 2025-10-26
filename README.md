@@ -21,7 +21,7 @@ gcc Xilo.c -o hello
 - 结果截图：
 **这里插入截图**
 
- ![alt text](/home/xiloyinli/dev/s27_tutorial/Yinli.png)
+ ![alt text](blob:https://github.com/0c972e4c-b041-467d-a76f-104fed69bc08)
 
 ---
 仔细思考，冷静分析。

@@ -24,8 +24,8 @@ gcc Xilo.c -o hello
 **这里插入截图**
 
 
-![图 0](images/ce0a1063fe63e34b84398c4e22b2c7ea3c31c68160cd9274b2796794dfcaa7d3.png)  
 
+![0](Yinli.png)
 
 
 

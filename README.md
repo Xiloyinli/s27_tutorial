@@ -11,13 +11,15 @@
 - 提交方式：fork 仓库并commit你是如何输出的。
 
 我使用了 控制台运行C语言程序 方法来完成任务。
-执行方式：gcc Xilo.c -o hello
+执行方式：
+写代码
+gcc Xilo.c -o hello
 ./Xilo
 ```
 - 结果截图：
 **这里插入截图**
 
-(images/Xilo.png)
+(Xilo.png)
 
 ---
 仔细思考，冷静分析。

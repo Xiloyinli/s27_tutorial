@@ -21,7 +21,7 @@ gcc Xilo.c -o hello
 - 结果截图：
 **这里插入截图**
 
-(Xilo.png)
+![Final3](Xilo.png)
 
 ---
 仔细思考，冷静分析。

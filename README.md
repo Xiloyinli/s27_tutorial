@@ -22,6 +22,7 @@ gcc Xilo.c -o hello
 **这里插入截图**
 
 
+<img width="1198" height="213" alt="Yinli" src="https://github.com/user-attachments/assets/7c357cce-9172-488b-8eb2-2952d3835572" />
 
 
 ---

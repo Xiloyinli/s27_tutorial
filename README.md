@@ -22,7 +22,7 @@ gcc Xilo.c -o hello
 **这里插入截图**
 
 
-
+https://github.com/Xiloyinli/s27_tutorial/blob/5b43cd811955166cdc6817203e78ba50d05eb083/Yinli.png
 
 
 ---
